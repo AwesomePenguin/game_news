@@ -1,1 +1,2 @@
-A small program that checks tgbus.com (Chinese) on regular intervals (1 hour) for video game news
+A small program that checks tgbus.com (Chinese) for video game news
+Can run with Scheduler to customize interval
